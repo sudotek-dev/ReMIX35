@@ -1,6 +1,6 @@
 | Item | Category | Description | QTY per KIT | Image | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Electronics | Motherboard Einsy | 1 | ![Einsy](https://drive.google.com/file/d/15PHv7lRk4TUe0bAd8qx8uoetp9bM2mKR/view?usp=sharing) | Main component |
+| 1 | Electronics | Motherboard Einsy | 1 | ![Einsy](/pics-for-tables/einsy_mk3.5_motherboard_00.png) | Main component |
 | 2 | Electronics | Display Module | 1 | | Main component |
 | 3 | Electronics | LCM | 1 | | Main component |
 | 4 | 3D Printed | ESP-01S Wi-Fi module | 1 | | Accesory |
