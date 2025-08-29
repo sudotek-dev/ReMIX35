@@ -23,10 +23,10 @@ This repository provides documentation, design files, and other resources relate
 ```
 ReMIX35/
 │
-├── bill-of-materials/ # General documentation and guides
-├── electronics/ # Schematics, PCB files, and Bill of Materials (BoM)
-├── mechanical/ # CAD models and 3D files
-└── images/ # Photos and graphics
+├── 3D-files/ # CAD models and other 3D files
+├── bill-of-materials/ # BOM A and General documentation and guides
+├── images/ # Photos and graphics
+└── squematics/ # Schematics and other details
 ```
 
 ---
