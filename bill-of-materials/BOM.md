@@ -3,7 +3,7 @@
 | 1 | Electronics | Motherboard Einsy | 1 | ![Einsy](/pics-for-tables/einsy_mk3.5_motherboard_00.png) | Main component |
 | 2 | Electronics | Display Module | 1 | | Main component |
 | 3 | Electronics | LCM | 1 | | Main component |
-| 4 | 3D Printed | ESP-01S Wi-Fi module | 1 | | Accesory |
+| 4 | 3D Printed | ESP-01S Wi-Fi module | 1 | ![ESP-01S](/pics-for-tables/RMX35-01.png)| Accesory |
 | 5 | 3D Printed | Einsy-base_remix | 1 | | Accesory |
 | 6 | 3D Printed | Einsy-door | 1 | | Accesory |
 | 7 | 3D Printed | LCD-cover (2 colors) | 1 | | Accesory |
