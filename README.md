@@ -26,7 +26,7 @@ ReMIX35/
 ├── 3D-files/ # CAD models and other 3D files
 ├── bill-of-materials/ # BOM, General documentation and guides
 ├── images/ # Photos and graphics
-└── squematics/ # Schematics and other details
+└── schematics/ # Schematics and other details
 ```
 
 ---
